@@ -3,7 +3,7 @@ With the recent pandemic, lots of people have become victims of unemployment. Lo
 
 project live on this link https://hoemato.000webhostapp.com/
 ## <u>Website Images</u>
-> ![](homeato1.jpg)
-> ![](homeato2.jpg)
-> ![](homeato3.jpg)
-> ![](homeato4.jpg)
+> ![](homeato1.jpeg)
+> ![](homeato2.jpeg)
+> ![](homeato3.jpeg)
+> ![](homeato4.jpeg)
